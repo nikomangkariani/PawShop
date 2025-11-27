@@ -1,8 +1,9 @@
 #Variabel global digunakan untuk menyimpan data pengguna, produk, dan keranjang belanja, serta status login.
 # cara bacanya {username: {"password": password, "role": role}}
 pengguna = { 
-    "gea": {
-        "password": "seokjin92",
+    "admin": {
+        "password": "admin123",
+ main
         "role": "admin"
     },
     "user": {
